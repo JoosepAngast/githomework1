@@ -7,3 +7,4 @@
 - Today is quiet wednesday
 - Today is busy Thursday
 - Today is Friday
+- Today is Saturday

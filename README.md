@@ -4,3 +4,4 @@
 - Today is Fucking Monday!!!
 - Today is Monday 15th
 - Today is Tuesday
+- Today is Wednesday

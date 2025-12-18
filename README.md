@@ -5,3 +5,4 @@
 - Today is Monday 15th
 - Today is Tuesday
 - Today is Wednesday
+- Today is Thursday

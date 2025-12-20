@@ -6,4 +6,5 @@
 - Today is Tuesday
 - Today is Wednesday
 - Today is Thursday
-- Todai is Friday
+- Today is Friday
+- Today is Saturday

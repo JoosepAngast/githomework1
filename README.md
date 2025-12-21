@@ -8,3 +8,5 @@
 - Today is Thursday
 - Today is Friday
 - Today is Saturday
+- Today id Sunday
+

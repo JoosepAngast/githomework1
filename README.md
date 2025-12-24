@@ -3,3 +3,4 @@
 - today is saturday!!!
 - Today is Fucking Monday!!!
 - Today is Monday 22th!
+- Today is Wednesday!
